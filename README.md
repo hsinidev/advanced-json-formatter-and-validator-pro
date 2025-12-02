@@ -9,7 +9,7 @@ A professional, client-side tool to format, validate, pretty-print, and debug JS
 ## 🚀 Live Demo
 
 Check out the live application here:  
-👉 **[doodax.com](https://doodax.com)** (Opens in new tab)
+👉 **[doodax.com](https://doodax.com/tools/advanced-json-formatter-and-validator/index.html)** (Opens in new tab)
 
 ---
 
